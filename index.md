@@ -13,7 +13,7 @@ This user guide is intended to be used by project contributors (scholars, resear
 The user guide is accessible at all times from the application. In the header, there is a book sign next to the menu button on the right-hand side:
 
 <p class="text-center">
-<img width="200px" src="https://digital-literary-maps.github.io/assets/img/user-guide-btn.png">
+<img width="200px" src="{{ '/assets/img/user-guide-btn.png' | relative_url }}">
 </p>
 
 Clicking on this symbol will either open up a specific page of the user guide (depending on where you are) or the front page (this page).
@@ -30,7 +30,7 @@ Leo Born
 本ユーザーガイドは、ウェブアプリケーション上でいつでもアクセスできます。ウェブアプリケーションのヘッダーには本のマークがあります：
 
 <p class="text-center">
-<img width="200px" src="https://digital-literary-maps.github.io/assets/img/user-guide-btn.png">
+<img width="200px" src="{{ '/assets/img/user-guide-btn.png' | relative_url }}">
 </p>
 
 マークをクリックすると、本ユーザーガイドの特定なページ（ウェブアプリケーション内のURLによります）、又は本フロントページが表示されます。
@@ -42,4 +42,4 @@ Leo Born
 
 ---
 
-<b id="f1">1.</b> _open_ means that this user guide is hosted on [GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io) and that, thus, the page development (revisions, corrections, additions etc.) can be transparently tracked. <br>「オープン」とは、本ユーザーガイドが[GitHub](https://github.com/digital-literary-maps/digital-literary-maps.github.io)でホストされてるため、ページのコードがオープンソースということです。 [↩](#a1)
+<b id="f1">1.</b> _open_ means that this user guide is hosted on [GitHub](https://github.com/digital-literary-map-of-japan/userguide) and that, thus, the page development (revisions, corrections, additions etc.) can be transparently tracked. <br>「オープン」とは、本ユーザーガイドが[GitHub](https://github.com/digital-literary-map-of-japan/userguide)でホストされてるため、ページのコードがオープンソースということです。 [↩](#a1)
