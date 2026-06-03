@@ -1,5 +1,10 @@
 # --- Basic options --- #
 
+# Site URL (used by sitemap, feed, social meta, absolute_url)
+url: "https://digital-literary-map-of-japan.github.io"
+# Subpath under the org Pages site — repo name is "userguide" so the site lives at /userguide
+baseurl: "/userguide"
+
 # Name of website
 title: Digital Literary Map of Japan
 
@@ -37,7 +42,7 @@ round-avatar: false
 social-network-links:
   #email: "someone@example.com"
   #facebook: deanattali
-  github: digital-literary-maps
+  github: digital-literary-map-of-japan
   #twitter: daattali
   rss: false
 #  reddit: yourname
